@@ -1,5 +1,3 @@
-https://github.com/Lalanika-reddy/task-1
-https://lalanika-reddy.github.io/task-1-/
 https://lalanika-reddy.github.io/task-5---static-website-and-github-deployment/
 # Antigravity Workspace - Responsive Landing Page
 
