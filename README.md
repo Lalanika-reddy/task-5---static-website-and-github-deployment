@@ -1,5 +1,6 @@
 https://github.com/Lalanika-reddy/task-1
 https://lalanika-reddy.github.io/task-1-/
+https://lalanika-reddy.github.io/task-5---static-website-and-github-deployment/
 # Antigravity Workspace - Responsive Landing Page
 
 A premium, responsive, dark-themed landing page representing **Antigravity OS**, a futuristic spatial developer workspace.
